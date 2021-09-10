@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/dayty-firebase/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/dayty-firebase/static/js/main.2f302ea6.chunk.js",
-    "main.js.map": "/dayty-firebase/static/js/main.2f302ea6.chunk.js.map",
-    "runtime-main.js": "/dayty-firebase/static/js/runtime-main.b6fb408e.js",
-    "runtime-main.js.map": "/dayty-firebase/static/js/runtime-main.b6fb408e.js.map",
-    "static/js/2.0e7f2f73.chunk.js": "/dayty-firebase/static/js/2.0e7f2f73.chunk.js",
-    "static/js/2.0e7f2f73.chunk.js.map": "/dayty-firebase/static/js/2.0e7f2f73.chunk.js.map",
-    "static/js/3.da6eb589.chunk.js": "/dayty-firebase/static/js/3.da6eb589.chunk.js",
-    "static/js/3.da6eb589.chunk.js.map": "/dayty-firebase/static/js/3.da6eb589.chunk.js.map",
+    "main.css": "/dayty-firebase/static/css/main.38d73751.chunk.css",
+    "main.js": "/dayty-firebase/static/js/main.9fc561ef.chunk.js",
+    "main.js.map": "/dayty-firebase/static/js/main.9fc561ef.chunk.js.map",
+    "runtime-main.js": "/dayty-firebase/static/js/runtime-main.c9fa9751.js",
+    "runtime-main.js.map": "/dayty-firebase/static/js/runtime-main.c9fa9751.js.map",
+    "static/js/2.3da6aa2e.chunk.js": "/dayty-firebase/static/js/2.3da6aa2e.chunk.js",
+    "static/js/2.3da6aa2e.chunk.js.map": "/dayty-firebase/static/js/2.3da6aa2e.chunk.js.map",
+    "static/js/3.12a8cf5e.chunk.js": "/dayty-firebase/static/js/3.12a8cf5e.chunk.js",
+    "static/js/3.12a8cf5e.chunk.js.map": "/dayty-firebase/static/js/3.12a8cf5e.chunk.js.map",
     "index.html": "/dayty-firebase/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/dayty-firebase/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.0e7f2f73.chunk.js.LICENSE.txt": "/dayty-firebase/static/js/2.0e7f2f73.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/dayty-firebase/static/media/logo.6ce24c58.svg"
+    "static/css/main.38d73751.chunk.css.map": "/dayty-firebase/static/css/main.38d73751.chunk.css.map",
+    "static/js/2.3da6aa2e.chunk.js.LICENSE.txt": "/dayty-firebase/static/js/2.3da6aa2e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b6fb408e.js",
-    "static/js/2.0e7f2f73.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.2f302ea6.chunk.js"
+    "static/js/runtime-main.c9fa9751.js",
+    "static/js/2.3da6aa2e.chunk.js",
+    "static/css/main.38d73751.chunk.css",
+    "static/js/main.9fc561ef.chunk.js"
   ]
 }
