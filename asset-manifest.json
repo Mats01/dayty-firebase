@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dayty-firebase/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/dayty-firebase/static/js/main.0495751a.chunk.js",
-    "main.js.map": "/dayty-firebase/static/js/main.0495751a.chunk.js.map",
+    "main.js": "/dayty-firebase/static/js/main.2f302ea6.chunk.js",
+    "main.js.map": "/dayty-firebase/static/js/main.2f302ea6.chunk.js.map",
     "runtime-main.js": "/dayty-firebase/static/js/runtime-main.b6fb408e.js",
     "runtime-main.js.map": "/dayty-firebase/static/js/runtime-main.b6fb408e.js.map",
     "static/js/2.0e7f2f73.chunk.js": "/dayty-firebase/static/js/2.0e7f2f73.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.b6fb408e.js",
     "static/js/2.0e7f2f73.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.0495751a.chunk.js"
+    "static/js/main.2f302ea6.chunk.js"
   ]
 }
