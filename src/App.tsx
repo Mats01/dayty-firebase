@@ -1,4 +1,4 @@
-import React, { FC, useEffect, useRef, useState } from 'react';
+import React, { FC, useEffect, useState } from 'react';
 import {
   BrowserRouter as Router,
   Switch,
@@ -148,6 +148,7 @@ const Circle: FC<{ score: Grade }> = ({ score }) => {
 
   useEffect(() => {
     clicked()
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
   return (
     <div className={"themes_wrapper " + score.name} >
@@ -164,7 +165,7 @@ const Circle: FC<{ score: Grade }> = ({ score }) => {
   )
 }
 
-const Circles: FC<{}> = ({ }) => {
+const Circles: FC<{}> = () => {
 
 
   const themes: Grade[] = [
